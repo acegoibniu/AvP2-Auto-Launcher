@@ -1,0 +1,1 @@
+START lithtech.exe -cmdfile avp2cmds.txt
