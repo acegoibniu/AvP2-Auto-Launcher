@@ -1,0 +1,1 @@
+START lithtech.exe -cmdfile avp2cmds.txt +windowed 1 +GameScreenHeight 1080 +SCREENHEIGHT 1080 +GameScreenWidth 1920 +SCREENWIDTH 1920
