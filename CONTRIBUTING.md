@@ -18,7 +18,7 @@ Thanks for your interest in contributing.
   6. Push your fork and open a pull-request.
 
 - **License**
-  By contributing, you agree that your contributions will be licensed under the same license as this project. See (LICENSE)[LICENSE]
+  By contributing, you agree that your contributions will be licensed under the same license as this project. See [LICENSE](LICENSE).
 
   ## Questions? Feedback?
   Please feel free to open an issue or discussion.
